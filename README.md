@@ -28,12 +28,11 @@
 ## ⚠️ 注意事項
 
 - 每天更新，最晚 9:30 AM 公布
-- 本網頁可自由下載、修改與延伸應用，歡迎各位醫師一起使用
+- 本網頁可自由下載、修改與延伸應用，歡迎各位醫師將病患清單公布於此，方便組長們查詢
 
 ---
 
 ## 👨‍💻 作者資訊
 
-- GitHub 帳號：[martino-ai](https://github.com/martino-ai)
-- 專案 Repo：[HD-Patients](https://github.com/martino-ai/HD-Patients)
+- 謝晉文醫師
 
