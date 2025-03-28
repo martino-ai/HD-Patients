@@ -2,8 +2,7 @@
 
 點擊 [點我開啟網頁] 按鈕，將會直接前往 LockerStudio 所顯示的病人清單。
 
-👉 **[點我開啟網頁](https://martino-ai.github.io/HD-Patients/)**  
-👉 **[前往 LockerStudio]([https://docs.google.com/spreadsheets/d/1l34JMYi8D4w3U-Dxph_spbNDKlLqaiI0CXAcXlwQ6wE/edit?usp=sharing](https://lookerstudio.google.com/reporting/97d1cf7f-c810-4c57-a42d-66e415137056))**
+👉 **[點我開啟網頁](https://lookerstudio.google.com/reporting/97d1cf7f-c810-4c57-a42d-66e415137056)**  
 
 ---
 
